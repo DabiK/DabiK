@@ -6,12 +6,13 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [nodra](https://github.com/DabiK/nodra) | DevFlow Next — local-first mission control for orchestrating AI agents and humans: durable Temporal workflows, live mission board, pipelines | TypeScript |
 | [ui-review](https://github.com/DabiK/ui-review) | Local-first Chrome extension for UI review annotations with agent-ready handoff | TypeScript |
+| [realify-studio](https://github.com/DabiK/realify-studio) | React cockpit to produce content with AI: image generation with Codex, review and retouch, TikTok-ready exports | TypeScript / React |
 | [plantview](https://github.com/DabiK/plantview) | PlantUML viewer: local rendering, URL-encoded diagrams, minimal editor | TypeScript |
 | [mcp-plan-generation](https://github.com/DabiK/mcp-plan-generation) | PlanFlow — MCP server to create, validate and review implementation plans with GitHub Copilot in VS Code | TypeScript |
 | [ctx](https://github.com/DabiK/ctx) | Local repository context runtime for LLM chat — clipboard transport, human-permission gate | TypeScript |
-| [mon-chat-peut-presentation](https://github.com/DabiK/mon-chat-peut-presentation) | Public website: landing page, privacy policy and terms of service | HTML / JavaScript |
-| [treasureQuest](https://github.com/DabiK/treasureQuest) | Java implementation of the Treasure Map coding exercise, pathfinding algorithm | Java |
+| [aura](https://github.com/DabiK/aura) | Flutter app prototype with Firebase, sample shop catalog, categories and themed UI | Dart / Flutter |
 
 ## Tech stack
 
